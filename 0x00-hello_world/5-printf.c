@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
-* main - A program that prints with the functin printf funtion
+* main - Entry point
 * Return: 0 (Success)
 */
 int main(void)
-{
 printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
